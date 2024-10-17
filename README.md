@@ -1,3 +1,3 @@
 ### wassup
 
-im neither an engineer nor a genius, just a coder
+havent been coding for so long probably gonna work on a project soon (possibly something with esp32 or rpizerow)
